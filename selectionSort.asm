@@ -1,6 +1,6 @@
-#Nathaniel Simmons, nis190000
+#Nathaniel Simmons
 #This program demonstrates a selection sort on the data in memory.
-#11/12/2020
+#Last modified 11/12/2020
 .data
 array:	.word		19,-2,95,26,83,17,-5,69,-16,10,45,-17,88,27,-13,67,-48,6,-66,40
 			19,-2,95,26,83,17,-5,69,-16,10,45,-17,88,27,-13,67,-48,6,-66,40
